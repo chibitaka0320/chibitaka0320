@@ -16,7 +16,7 @@ Looking forward to connecting and contributing on GitHub!<br>
 <br>
 [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=chibitaka0320)](https://github.com/evirunurm/github-stats)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=chibitaka0320&theme=onedark)](https://github.com/monaka0309/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chibitaka0320&theme=onedark)](https://github.com/chibitaka0320/github-profile-trophy)
  
 <!---
 chibitaka0320/chibitaka0320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
