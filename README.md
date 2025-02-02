@@ -1,4 +1,4 @@
-# welcome to chibitaka0320 !
+# welcome to chibitaka0320
 ## intrduce
 Hello there! <br>
 I'm chibitaka, a 25-year-old resident of Saitama, actively delving into the realm of programming. <br>
